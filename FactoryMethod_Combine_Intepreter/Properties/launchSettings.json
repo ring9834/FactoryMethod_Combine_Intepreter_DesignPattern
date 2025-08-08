@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FactoryMethod_Combine_Intepreter3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
